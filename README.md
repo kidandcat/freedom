@@ -7,3 +7,7 @@ This service uses a "private" mega account as base, and upload files to a second
 - [ ] Support for multiple cross upload public accounts
 - [ ] Serve an endpoint to get links
 - [ ] Prepare for many private<->public pairs
+
+## Objective
+
+Serve a free service, welcome donations
